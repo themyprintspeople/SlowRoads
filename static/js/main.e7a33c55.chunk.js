@@ -12620,6 +12620,7 @@
           Coach: vehicles.Bus,
           Lambo: vehicles.Lambo,
           Supercar: vehicles.Supercar,
+          Superbus: vehicles.Superbus,
         },
         br = 1,
         fr = 2;
